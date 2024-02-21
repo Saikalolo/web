@@ -43,7 +43,7 @@ button{
 }
 
 .main{
-background-image: url(img/bread.jpg);
+background-image: url(./img/bread.jpg);
 height: 600px;
 background-repeat: no-repeat;
 background-size: 100%;
